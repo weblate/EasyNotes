@@ -171,7 +171,10 @@
     <string name="terms_contact_body">لأي أسئلة حول شروط الخدمة هذه أو Easy Notes، يرجى الاتصال بنا على</string>
     <string name="terms_effective_date">تاريخ النشر</string>
     <string name="uid">المعرف الفريد للمستخدم (UID)</string>
-    <string name="terms_changes_body">قد نقوم بتحديث شروط الخدمة هذه من وقت لآخر. استمرار استخدامك لـ Easy Notes بعد أي تغييرات يشكل قبولًا للشروط المنقحة.</string>
+    <string name="terms_changes_body">قد نقوم بتحديث شروط الخدمة هذه من وقت لآخر. استمرار استخدامك لـ Easy Notes بعد أي تغييرات يشكل قبولًا للشروط المعدلة.</string>
     <string name="terms_use_body">أنت توافق على استخدام Easy Notes فقط للأغراض القانونية ووفقًا لهذه الشروط. يجب عليك **عدم**:\n\n- _استخدام التطبيق لأي غرض غير قانوني_\n- _انتهاك حقوق الآخرين_\n- _تعطيل وظائف أو أمان التطبيق_</string>
     <string name="terms_termination_body">يجوز لنا إنهاء أو تعليق وصولك إلى Easy Notes إذا خالفت هذه الشروط. عند الإنهاء، حقك في استخدام التطبيق سينتهي على الفور.</string>
+    <string name="terms_liability_body">لسنا مسؤولين عن أي أضرار ناتجة عن استخدامك لـ Easy Notes، بما في ذلك الأضرار غير المباشرة أو العرضية أو التبعية.</string>
+    <string name="terms_disclaimer_body">يتم توفير Easy Notes كما هو، دون أي ضمانات. لا نضمن أن يكون التطبيق خاليًا من الأخطاء، آمنًا، أو دون انقطاع.</string>
+    <string name="terms_intellectual_property_body">جميع حقوق الملكية الفكرية في Easy Notes مملوكة لنا أو لمرخصينا. لا يمنحك استخدامك للتطبيق ملكية أي حقوق ملكية فكرية.</string>
 </resources>
