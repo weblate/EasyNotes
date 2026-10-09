@@ -129,7 +129,7 @@
     <string name="app_lock_description">قفل التطبيق باستخدام كلمة مرور</string>
     <string name="setup_password">‌إعداد رمز مرور</string>
     <string name="enter_password">إدخال رمز المرور</string>
-    <string name="pin">رقم (٦ أرقام)</string>
+    <string name="pin">Pin (٦ أرقام)</string>
     <string name="passcode">رمز المرور</string>
     <string name="fingerprint">بصمة الإصبع</string>
     <string name="fingerprint_name">المصادقة مطلوبة</string>
